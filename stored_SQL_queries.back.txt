@@ -1,0 +1,10 @@
+מספר הקורס אליו נרשמו הכי הרבה סטודנטים:
+SELECT ID, NAME, MAX(NUM_OF_STUDENTS) FROM Courses 
+מספר הקורס שבו הציון הממוצע הוא הגבוה ביותר:
+SELECT ID, NAME, MAX(AVG_GRADE) FROM Courses 
+מספר זיהוי תלמיד שנרשם להכי הרבה קורסים:
+SELECT MAX(y.StudentNumberOfCourses), STUDENT_ID FROM( 	SELECT STUDENT_ID, COUNT(COURSE_ID) as StudentNumberOfCourses FROM Grades group by STUDENT_ID ORDER BY STUDENT_ID ) y
+מספר זיהוי תלמיד שקיבל הכי הרבה פעמים את הציון הגבוה ביותר בקורס:
+SELECT MAX(n.NUmberOfMaxGradePerStudent), STUDENT_ID FROM(	SELECT COUNT(y.GRADE) as NUmberOfMaxGradePerStudent, STUDENT_ID FROM	(SELECT STUDENT_ID, GRADE FROM Grades JOIN Courses ON Courses.ID = Grades.COURSE_ID WHERE GRADE = Courses.HIGHEST_GRADE) y GROUP BY STUDENT_ID) n
+שם המשפחה שחוזר על עצמו הכי הרבה פעמים:
+SELECT MAX (y.CountLastName), LAST_NAME FROM ( 	SELECT COUNT(LAST_NAME) as CountLastName, LAST_NAME FROM Students GROUP BY LAST_NAME	) y

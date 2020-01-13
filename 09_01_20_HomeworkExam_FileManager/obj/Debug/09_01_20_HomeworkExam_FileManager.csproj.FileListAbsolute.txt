@@ -1,0 +1,13 @@
+C:\Users\Gil\source\repos\09_01_20_HomeworkExam_FileManager\09_01_20_HomeworkExam_FileManager\bin\Debug\09_01_20_HomeworkExam_FileManager.exe.config
+C:\Users\Gil\source\repos\09_01_20_HomeworkExam_FileManager\09_01_20_HomeworkExam_FileManager\bin\Debug\09_01_20_HomeworkExam_FileManager.exe
+C:\Users\Gil\source\repos\09_01_20_HomeworkExam_FileManager\09_01_20_HomeworkExam_FileManager\bin\Debug\09_01_20_HomeworkExam_FileManager.pdb
+C:\Users\Gil\source\repos\09_01_20_HomeworkExam_FileManager\09_01_20_HomeworkExam_FileManager\obj\Debug\09_01_20_HomeworkExam_FileManager.csprojAssemblyReference.cache
+C:\Users\Gil\source\repos\09_01_20_HomeworkExam_FileManager\09_01_20_HomeworkExam_FileManager\obj\Debug\_09_01_20_HomeworkExam_FileManager.Properties.Resources.resources
+C:\Users\Gil\source\repos\09_01_20_HomeworkExam_FileManager\09_01_20_HomeworkExam_FileManager\obj\Debug\09_01_20_HomeworkExam_FileManager.csproj.GenerateResource.cache
+C:\Users\Gil\source\repos\09_01_20_HomeworkExam_FileManager\09_01_20_HomeworkExam_FileManager\obj\Debug\09_01_20_HomeworkExam_FileManager.exe
+C:\Users\Gil\source\repos\09_01_20_HomeworkExam_FileManager\09_01_20_HomeworkExam_FileManager\obj\Debug\09_01_20_HomeworkExam_FileManager.pdb
+C:\Users\Gil\source\repos\09_01_20_HomeworkExam_FileManager\09_01_20_HomeworkExam_FileManager\obj\Debug\_09_01_20_HomeworkExam_FileManager.MainForm.resources
+C:\Users\Gil\source\repos\09_01_20_HomeworkExam_FileManager\09_01_20_HomeworkExam_FileManager\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gil\source\repos\09_01_20_HomeworkExam_FileManager\09_01_20_HomeworkExam_FileManager\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gil\source\repos\09_01_20_HomeworkExam_FileManager\09_01_20_HomeworkExam_FileManager\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gil\source\repos\09_01_20_HomeworkExam_FileManager\09_01_20_HomeworkExam_FileManager\obj\Debug\09_01_20_HomeworkExam_FileManager.csproj.CopyComplete
